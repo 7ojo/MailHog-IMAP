@@ -11,8 +11,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mailhog/backends/auth"
-	"github.com/mailhog/imap"
+	"github.com/7ojo/backends/auth"
+	"github.com/7ojo/imap"
 )
 
 // Session represents a SMTP session using net.TCPConn
